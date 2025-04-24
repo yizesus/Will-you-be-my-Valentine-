@@ -2,7 +2,6 @@ const messages = [
     "Em chắc chưaaa?",
     "Suy nghĩ kĩ chưaaa??",
     "Có phải zậy khum vậyyyy?",
-    "làm ơn đi mà mia oiii",
     "Suy nghĩ kĩ điiii!",
     "Em nói khum là anh buồn óo...",
     "là anh sẽ rất buồn óo...",
